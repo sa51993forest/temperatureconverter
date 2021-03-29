@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">temperatureconverter</string>
+    <string name="tempconverter">溫度轉換</string>
+    <string name="temp_convert">溫度轉換</string>
+    <string name="input_temp">輸入華氏溫度</string>
+    <string name="change_button">轉換</string>
+    <string name="output_temp">輸出攝氏溫度</string>
+    <string name="temp_image">Temp_Image</string>
+</resources>
